@@ -1,0 +1,4 @@
+python==3.7
+geopy==2.0.0
+xlwings
+requests==2.24.0
